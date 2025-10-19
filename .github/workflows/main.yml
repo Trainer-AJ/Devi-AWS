@@ -1,6 +1,6 @@
 name: AWS Deploy
 
-on: [wokflow_dispatch]
+on: workflow_dispatch
 
 jobs:
   awscheck:    # job id
